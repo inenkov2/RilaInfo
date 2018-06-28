@@ -4,9 +4,9 @@ pesho
 111z222z
 
 gosho
-<<<<<<< HEAD
+
 
 cska
-=======
+
 marek
->>>>>>> 08a0c4522ea034751ca04a780b60b9594ffb9f51
+
